@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Shreenidhi!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenidhiN&layout=compact)](https://github.com/ShreenidhiN/github-readme-stats)
+
+
 
 <!--
 **ShreenidhiN/ShreenidhiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
