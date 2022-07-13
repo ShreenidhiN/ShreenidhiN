@@ -4,10 +4,11 @@
 
 ![Shreenidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreenidhiN&show_icons=true&theme=radical)
 
+![](https://komarev.com/ghpvc/?username=ShreenidhiN)
+
 <!--
 **ShreenidhiN/ShreenidhiN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=ShreenidhiN&label=PROFILE+VIEWS)
 
 Here are some ideas to get you started:
 
