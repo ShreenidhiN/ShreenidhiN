@@ -1,8 +1,5 @@
 ### Hi there 👋, I'm Shreenidhi!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreenidhiN&layout=compact)](https://github.com/ShreenidhiN/github-readme-stats)
-
-![Shreenidhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreenidhiN&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=ShreenidhiN)
 
